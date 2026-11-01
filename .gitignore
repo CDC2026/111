@@ -1,0 +1,17 @@
+# 编译产物
+/build/
+/Debug/
+/cmake-build-*/
+
+# CMake
+CMakeFiles/
+*.ninja
+.ninja_*
+
+# IDE
+/.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
